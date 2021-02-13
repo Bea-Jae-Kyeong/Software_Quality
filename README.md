@@ -1,5 +1,6 @@
 # Software_Quality
 Final project of Software Quality in Jaen University with one member
+
 Our program is a code about 128bit AES encryption, which encrypts random numbers in plain.bin file using key.bin creating encrypted.bin and decrypted.bin.
 The number in plain.bin file should be the same with the number in decrypted.bin.
 Bea Jae Kyeong has contributed the program, and we used this to work on our software quality project.
