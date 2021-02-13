@@ -5,6 +5,9 @@ Our program is a code about 128bit AES encryption, which encrypts random numbers
 The number in plain.bin file should be the same with the number in decrypted.bin.
 Bea Jae Kyeong has contributed the program, and we used this to work on our software quality project.
 
+The code is specifically analysed and can be seen here:
+html/code_analysed.html
+
 The main purpose of the project is to apply SEI CERT Coding Standards
 to check if our program is well-coded. This is to make our program’s quality
 higher. If the code of the program doesn’t meet the standard of SEI CERT
