@@ -6,6 +6,7 @@ The number in plain.bin file should be the same with the number in decrypted.bin
 Bea Jae Kyeong has contributed the program, and we used this to work on our software quality project.
 
 The code is specifically analysed and can be seen here:
+
 html/code_analysed.html
 
 The main purpose of the project is to apply SEI CERT Coding Standards
