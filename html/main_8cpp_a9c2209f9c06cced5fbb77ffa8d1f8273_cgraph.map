@@ -1,0 +1,4 @@
+<map id="SubBytes" name="SubBytes">
+<area shape="rect" id="node1" title="Substitute each Byte value of state array by Sbox." alt="" coords="5,5,84,32"/>
+<area shape="rect" id="node2" href="$main_8cpp.html#a88db09d0db771bb51cb7de85114066b9" title="Array of Inverse Galua Field(2^8) for calculation inverse element." alt="" coords="132,5,184,32"/>
+</map>

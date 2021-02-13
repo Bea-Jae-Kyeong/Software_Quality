@@ -1,0 +1,6 @@
+<map id="InvSbox" name="InvSbox">
+<area shape="rect" id="node1" title="Function generating 8&#45;bit Inverse Sbox used for decryption." alt="" coords="369,5,436,32"/>
+<area shape="rect" id="node2" href="$main_8cpp.html#aec7c63b92ce8568a2709f4cc3474e557" title="Function decrypting SubBytes. Substitute each Byte value of state array by Inverse Sbox." alt="" coords="227,5,321,32"/>
+<area shape="rect" id="node3" href="$main_8cpp.html#aafbd284aa92ecd9ceae5e165f03dfd23" title="Decryption function." alt="" coords="104,5,179,32"/>
+<area shape="rect" id="node4" href="$main_8cpp.html#a840291bc02cba5474a4cb46a9b9566fe" title="Opening binary files and writing a new one." alt="" coords="5,5,56,32"/>
+</map>

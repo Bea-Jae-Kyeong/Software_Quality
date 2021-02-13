@@ -1,0 +1,4 @@
+<map id="InvSubBytes" name="InvSubBytes">
+<area shape="rect" id="node1" title="Function decrypting SubBytes. Substitute each Byte value of state array by Inverse Sbox." alt="" coords="5,5,100,32"/>
+<area shape="rect" id="node2" href="$main_8cpp.html#acf6589100621f74dae431cc1a46c4708" title="Function generating 8&#45;bit Inverse Sbox used for decryption." alt="" coords="148,5,215,32"/>
+</map>
